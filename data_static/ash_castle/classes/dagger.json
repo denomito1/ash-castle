@@ -1,0 +1,7 @@
+{
+	"health": 300,
+	"armor": 100,
+	"weapons": [
+		"aoc_dagger"
+	]
+}

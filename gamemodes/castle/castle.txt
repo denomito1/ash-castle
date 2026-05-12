@@ -1,0 +1,11 @@
+"castle"
+{
+	"base"				"ash"
+	"title"				"Ash: Castle"
+	"maps"				"^de_|^dm_|^cs_|^aoc_"
+	"category"			"pvp"
+	"menusystem"		"1"
+
+	"author_name"		"denomito"
+	"author_email"		"denomito@protonmail.com"
+}

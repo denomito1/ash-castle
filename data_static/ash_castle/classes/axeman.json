@@ -1,0 +1,7 @@
+{
+	"health": 100,
+	"armor": 50,
+	"weapons": [
+		"aoc_doubleaxe"
+	]
+}
